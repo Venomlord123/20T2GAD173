@@ -1,0 +1,37 @@
+﻿  Source.cpp
+C:\Users\vicki\OneDrive\Documents\20T2GAD173\BreakoutClone\BreakoutClone\Source.cpp(35,22): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\vicki\OneDrive\Documents\20T2GAD173\BreakoutClone\BreakoutClone\Source.cpp(45,27): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\vicki\OneDrive\Documents\20T2GAD173\BreakoutClone\BreakoutClone\Source.cpp(48,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\vicki\OneDrive\Documents\20T2GAD173\BreakoutClone\BreakoutClone\Source.cpp(49,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\vicki\OneDrive\Documents\20T2GAD173\BreakoutClone\BreakoutClone\Source.cpp(51,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\vicki\OneDrive\Documents\20T2GAD173\BreakoutClone\BreakoutClone\Source.cpp(54,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\vicki\OneDrive\Documents\20T2GAD173\BreakoutClone\BreakoutClone\Source.cpp(55,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  BreakoutClone.vcxproj -> C:\Users\vicki\OneDrive\Documents\20T2GAD173\BreakoutClone\Debug\BreakoutClone.exe
