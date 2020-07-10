@@ -1,37 +1,20 @@
 ﻿  Source.cpp
-C:\Users\vicki\OneDrive\Documents\20T2GAD173\BreakoutClone\BreakoutClone\Source.cpp(35,22): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\vicki\OneDrive\Documents\20T2GAD173\BreakoutClone\BreakoutClone\BreakoutMain.h(21,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\vicki\OneDrive\Documents\20T2GAD173\BreakoutClone\BreakoutClone\Source.cpp(45,27): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\vicki\OneDrive\Documents\20T2GAD173\BreakoutClone\BreakoutClone\Source.cpp(41,35): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\vicki\OneDrive\Documents\20T2GAD173\BreakoutClone\BreakoutClone\Source.cpp(41,22): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\vicki\OneDrive\Documents\20T2GAD173\BreakoutClone\BreakoutClone\Source.cpp(46,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vicki\OneDrive\Documents\20T2GAD173\BreakoutClone\BreakoutClone\Source.cpp(54,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\vicki\OneDrive\Documents\20T2GAD173\BreakoutClone\BreakoutClone\Source.cpp(60,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\vicki\OneDrive\Documents\20T2GAD173\BreakoutClone\BreakoutClone\Source.cpp(66,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\vicki\OneDrive\Documents\20T2GAD173\BreakoutClone\BreakoutClone\Source.cpp(98,31): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\vicki\OneDrive\Documents\20T2GAD173\BreakoutClone\BreakoutClone\Source.cpp(48,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-          with
-          [
-              T=float
-          ]
-C:\Users\vicki\OneDrive\Documents\20T2GAD173\BreakoutClone\BreakoutClone\Source.cpp(49,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-          with
-          [
-              T=float
-          ]
-C:\Users\vicki\OneDrive\Documents\20T2GAD173\BreakoutClone\BreakoutClone\Source.cpp(51,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-          with
-          [
-              T=float
-          ]
-C:\Users\vicki\OneDrive\Documents\20T2GAD173\BreakoutClone\BreakoutClone\Source.cpp(54,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-          with
-          [
-              T=float
-          ]
-C:\Users\vicki\OneDrive\Documents\20T2GAD173\BreakoutClone\BreakoutClone\Source.cpp(55,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-          with
-          [
-              T=float
-          ]
+C:\Users\vicki\OneDrive\Documents\20T2GAD173\BreakoutClone\BreakoutClone\Source.cpp(142,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vicki\OneDrive\Documents\20T2GAD173\BreakoutClone\BreakoutClone\Source.cpp(173,21): warning C4018: '<': signed/unsigned mismatch
   BreakoutClone.vcxproj -> C:\Users\vicki\OneDrive\Documents\20T2GAD173\BreakoutClone\Debug\BreakoutClone.exe
